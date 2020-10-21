@@ -1,0 +1,43 @@
+.title-class {
+	animation-name: fixedKf;
+	animation-duration: 4s;
+}
+
+.subtitle-class {
+	animation-name: fixedKf;
+	animation-duration: 6s;
+}
+
+.text-class {
+	animation-name: fixedKf;
+	animation-duration: 7s;
+}
+
+.flipping {
+	animation-name: flippingKf;
+	animation-duration: 2s;
+	transition: transform 0.5s;
+}
+
+@keyframes fixedKf {
+	0% {
+		color: white;
+		right: 100px;
+		top: 0px;
+	}
+
+	100% {
+		color: black;
+		left: 0px;
+		top: 0px;
+	}
+}
+
+@keyframes flippingKf {
+	from {
+		transform: rotateY(90deg);
+	}
+	to {
+		transform: rotateY(0deg);
+	}
+}
