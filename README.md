@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Informal School of IT - Final Project: My-React-Portfolio
-This is a simple single-page application build with React.js. 
+This is a simple single-page application built with React.js. 
 
 The routes are implemented via React-Router, styling is done using defined classes from React-Bootstrap and the contact form is validated by Formspree.io, a forms-as-a-service provider.
 
