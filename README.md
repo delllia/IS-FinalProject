@@ -9,23 +9,23 @@ Each page has a navigation in the header section, a page content section and a f
 
 ## Application preview
 
-![Image of Home-Page](https://github.com/delllia/My-React-Portfolio/blob/main/public/home-page.png)
+![Image of Home-Page](https://github.com/delllia/IS-FinalProject/blob/main/public/home-page.png)
 
 * * *
 
-![Image of Home-Page](https://github.com/delllia/My-React-Portfolio/blob/main/public/about-page.png)
+![Image of Home-Page](https://github.com/delllia/IS-FinalProject/blob/main/public/about-page.png)
 
 * * *
 
-![Image of Home-Page](https://github.com/delllia/My-React-Portfolio/blob/main/public/education-page.png)
+![Image of Home-Page](https://github.com/delllia/IS-FinalProject/blob/main/public/education-page.png)
 
 * * *
 
-![Image of Home-Page](https://github.com/delllia/My-React-Portfolio/blob/main/public/skills-page.png)
+![Image of Home-Page](https://github.com/delllia/IS-FinalProject/blob/main/public/skills-page.png)
 
 * * *
 
-![Image of Home-Page](https://github.com/delllia/My-React-Portfolio/blob/main/public/contact-page.png)
+![Image of Home-Page](https://github.com/delllia/IS-FinalProject/blob/main/public/contact-page.png)
 
 
 
